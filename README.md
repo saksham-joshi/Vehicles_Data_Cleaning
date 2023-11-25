@@ -3,8 +3,8 @@
 
 This is a Data Cleansing/Cleaning project of **"autos.csv"** dataset which is extracted from [kaggle.com](https://www.kaggle.com/). This dataset contains details of around 350,000+ waste cars.
 
-Before executing **"main.ipynb"**  make sure to install "Python3" on your system from [here](www.python.org/downloads).
-and also download [auto.csv](https://drive.google.com/file/d/1Mb9d6AhKqqqJ0D7D-PmMuMvT3GuGCT1y/view?usp=sharing) and [auto_CLEANED.csv](https://drive.google.com/file/d/1Mb9d6AhKqqqJ0D7D-PmMuMvT3GuGCT1y/view?usp=sharing) .
+Before executing **"main.ipynb"**  make sure to install "Python3" on your system from [here](www.python.org/downloads)
+Also download [auto.csv](https://drive.google.com/file/d/1Mb9d6AhKqqqJ0D7D-PmMuMvT3GuGCT1y/view?usp=sharing) and [auto_CLEANED.csv](https://drive.google.com/file/d/1UicDXILJiFoh5O7wWk2hk97h5o-FV4gv/view?usp=sharing) .
 
 After succesfull installation....
 
