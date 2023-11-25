@@ -1,0 +1,33 @@
+
+# Hey there,
+
+This is a Data Cleansing/Cleaning project of **"autos.csv"** dataset which is extracted from [kaggle.com](https://www.kaggle.com/). This dataset contains details of around 350,000+ waste cars.
+
+Before executing **"main.ipynb"**  make sure to install "Python3" on your system from [here](www.python.org/downloads).
+
+After succesfull installation....
+
+
+## Installation
+
+Type below commands to install pip if you are in linux...
+
+```bash
+  sudo apt install pip
+```
+and then type below commands if you are on Windows or Linux.
+
+```bash
+  pip install pandas
+  pip install jupyter
+  pip install openpyxl
+  pip install numpy
+```
+
+
+    
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sakshamjoshi.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshamjoshi27)
+[![Github](https://img.shields.io/badge/Visit_my-Github-purple)](https://github.com/saksham-joshi)
+
